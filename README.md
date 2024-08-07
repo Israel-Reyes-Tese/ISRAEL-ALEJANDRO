@@ -1,14 +1,19 @@
 <h1 align="center">Hola 👋, Soy Israel Reyes</h1>
 <h3 align="center">Soy un Frotend, con nuevas ideas y muy apasionado</h3>
 
+- 🔭 I’m currently working on [ERP INDUSTRIA TEXTIL](https://github.com/Israel-Reyes-Tese/ERP-INDUSTRIA-TEXTIL)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Israel-Reyes-Tese?tab=repositories](https://github.com/Israel-Reyes-Tese?tab=repositories)
 
 - 💬 Ask me about **html, css, javascript, pyhton**
 
 - 📫 How to reach me **ing.reyes.lopez.is.23@outlook.com**
 
+- 📄 Know about my experiences [linkedin.com/in/israel-alejandro-reyes-lópez-8928b4311](linkedin.com/in/israel-alejandro-reyes-lópez-8928b4311)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/israel-alejandro-reyes-lópez-8928b4311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/israel-alejandro-reyes-lópez-8928b4311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
